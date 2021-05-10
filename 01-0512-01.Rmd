@@ -1,0 +1,110 @@
+# COVID-19, poverty and inclusive development
+
+https://doi.org/10.1016/j.worlddev.2021.105527
+
+inclusive development 
+
+> Inclusive development is a “development that includes. **marginalized people, sectors and countries** in **social, political and economic processes** for increased human well-being, social and environmental sustainability, and empowerment”. 
+
+DPSIR: drivers, pressures, state, impact and response^[https://en.wikipedia.org/wiki/DPSIR]
+
+## Author
+
+Joyeeta Gupta
+
+* a full professor of **environment and development** in the global south at the Amsterdam Institute for Social Science Research of the University of Amsterdam
+* She was lead author in the Intergovernmental Panel on Climate Change which won the 2007 Nobel Peace Prize with Al Gore. 
+
+## Abstract
+
+新冠疫情为倡导包容性发展（inclusive development）提供了一个新原因。当下，全球各社群和国家针对新冠疫情的应对措施暴露出对贫困国家和对各国贫困人口的团结程度低。针对这一背景，本文提出问题：COVID-19大流行病所暴露的发展挑战是什么，在设计恢复过程中可以吸取哪些经验教训？我们的研究从包容性发展和DPSIR的角度来评估这些文献，发现：
+
+* 第一，目前的应对措施优先考虑较富裕阶层的 "状态 "和 "影响"，而牺牲了世界其他人口的利益。
+* 第二，应对措施忽视了潜在的 "驱动力 "（Drivers, indirect causes）和 "压力"（Pressures, direct causes），而是以经济的快速复苏为目标。
+* 第三，利用政府资金恢复正常经营将导致生态逻辑进一步退化、社会经济不平等和家庭虐待的恶性循环。正是这些因素加剧了疫情流行程度。
+
+相反，我们主张采取一种包容性的发展方法，通过强调人类健康、福祉和生态系统的再生来实现良性循环。我们的结论是，发展受阻并不是在2020年随着COVID-19的发生而开始的；在过去的三十年里，发展受阻是持续的。从这个角度来看，COVID-19可能是把恶性循环转变为包容性发展的良性循环所必要的冲击，以重提被忽视的价值。
+
+## Introduction: COVID-19 and development
+
+COVID-19 has not just presented a crisis in itself, but more fundamentally, it has exposed and illuminated a series of underlying crises that were already present in the pre-COVID system.
+
+## An inclusive development (ID) and DPSIR framework for COVID-19
+
+### Introduction
+
+Inclusive development^[https://link.springer.com/article/10.1007/s10784-016-9323-z]
+
+* social inclusiveness i.e. 欠发达地区、贫困人口
+* ecological inclusiveness
+* relational inclusiveness  
+  * the relations between humans within households through to international relations and the underlying mechanisms that perpetuate socio-ecological exclusion and inequality 
+  * access to recognition, representation, participation, decision-making and judicial remedies
+
+DPSIR model: a causal framework for describing the interactions between society and the environment
+
+* Driver 间接原因
+* Pressure 直接原因
+* State 状态
+* Impact 影响
+* Response 反应
+
+![image-20210510113541328](/Users/curitis/Library/Application Support/typora-user-images/image-20210510113541328.png)
+
+## Drivers and Pressures, State and Impact of COVID-19
+
+### Drivers and Pressures
+
+Drivers: Biodiversity loss- the pursuit of economic growth as measured by GDP, tech facilitating such growth, climate change, demographic trends
+
+Pressures: land-use change, pollution, resource overuse, invasive species
+
+Conclusion
+
+1. systemic social and relational exclusiveness which leads to wealth concentration, land grabbing and unsustainable investment, production, distribution and consumption patterns
+2. ecological and relational externalization which ignores local to planetary boundaries by extracting rents from nature and externalizing risks
+
+### State and Impact
+
+State: factors that increase the vulnerability to COVID-19
+
+* Underlying health challenges 慢性病、肥胖人群
+* Limited access to hygiene 卫生条件差
+* Limited access to social distancing options 人口密度大
+* Limited access to health care 医疗条件差
+* Limited access to labour protection in the healthcare industry
+* Limited access to safety net 低保
+* Become "trapped" in domestic households 家暴
+
+Impact
+
+* indiscriminate lock-down
+* social support limited
+* sovereignty 
+
+## Responses to COVID-19
+
+Addressing drivers and pressures: few
+
+Addressing state: 有效，但不公平
+
+Addressing Impact
+
+Key issues
+
+* 缺乏对弱势群体的关切
+* 缺乏国际团结
+* 不解决环境问题
+
+## COVID-19 recovery processes
+
+Driver: 强调inclusive development
+
+State
+
+* 要求加强医疗卫生建设
+* 要求加强non-securitization合作
+
+## Comment
+
+认为COVID-19的流行是更深层面的社会问题、环境问题和关系处理问题导致的，呼吁从根上治病。很规范，很描述，有一些insights很真实。
