@@ -1,0 +1,19 @@
+---
+title: "Weekly Readings"
+author: 
+  - Yuyang Shi
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+description: "本科生的小惶恐"
+documentclass: book
+
+---
+
+# Contact info
+
+yangtzesyy@gmail.com
+
+
+
+
