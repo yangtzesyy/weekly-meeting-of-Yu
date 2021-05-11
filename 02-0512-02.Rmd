@@ -1,0 +1,116 @@
+# Taxation under Learning by Doing
+
+## Author
+
+Miltiadis Makris
+
+* a Professor of Economics at the University of Kent
+* the study of optimal income taxation, dynamic tax competition
+
+Alessandro Pavan
+
+* Professor Northwestern University, Department of Economics
+
+## Wedge: Deadweight Loss
+
+![image-20210512005043963](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.wendangwang.com%2Fpic%2F3e20936c7959f45cf56611b4%2F9-810-jpg_6-1080-0-0-1080.jpg&refer=http%3A%2F%2Fwww.wendangwang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1623343909&t=5e695f264e45fd67ccd1a510d7371fce)
+
+## Abstract
+
+我们研究了工人生产力随机（stochastic）且因为干中学（learning by doing）具有内生性的情况下的最优税收方案。
+
+干中学导致了更高的税收效率扭曲，改变了税率和效率扭曲之间的关系。
+
+在校准模型中，我们发现改革美国税法能带来显著社会受益。一个不考虑过往收入的简单税法是近似最优的。
+
+通过比较干中学和生产力外生两种情况下的税法，我们单独考察了干中学的影响。
+
+> We isolate the role of learning by doing by comparing the aforementioned tax code to its counterpart in an economy that is identical to the calibrated one except for the exo- geneity of the productivity process.
+
+忽视干中学后的结果完全不同。
+
+## Intro
+
+“Learning by doing” refers to the positive effect of the time spent at work on the agents’ productivity. 
+
+* a side product of the labor supply process.
+
+Agents' productivity
+
+* stochastic
+* private
+* evolves endogeny
+
+The mechanism described above is specific to economies in which the agents’ productivity is their **private information**, is **endogenous**, and evolves **stochastically** over the life cycle, which are natural features of economies with LBD. 
+
+Findings
+
+* 无效损失更大in the presence of LBD, labor wedges are higher than those in the absence of LBD
+* 边际税率和无效损失的关系改变the presence of LBD **alters the relation between wedges and marginal tax rates under optimal tax codes** and 对全周期的税收规模、累进性和机制影响很大has a significant impact on the level, progressivity, and dynamics of taxes over the life cycle.
+* We also find that most of the welfare gains from the optimal reform can be generated with a simple tax code where taxes are invariant to past incomes but age dependent. 
+
+New tax code
+
+* higher tax rates for young workers, whereas for old workers it features higher tax rates at low income percentiles but lower tax rates at high income percentiles
+* less progressive for young workers and is regressive, instead of progressive, for old workers
+* a smaller differential between the average tax rate for old workers and the average tax rate for young workers
+
+Comparison to a counterfactual economy where productivity is exogenous
+
+* features lower tax rates for young workers, whereas for old workers it features lower tax rates at low income percentiles but higher tax rates at high income percentiles
+* is progressive, instead of regres- sive, for young workers but is less regressive for old workers
+* a larger differential between the average tax rate for old workers and that for young workers
+
+In the presence of LBD, agents have incentives to work harder to boost their future productivity. 
+
+* Under complete information, this effect contrib- utes positively to welfare.
+
+* Private: agents must receive rents to reveal their private information.
+
+  > Such rents represent **welfare losses** and call for **downward distortions** in labor supply. These rents are higher for highly productive agents. LBD, by shifting the productivity distribution in future periods to- ward higher productivity levels, contributes to higher expected future rents and thus to higher expected future welfare losses.
+
+## Model
+
+two period $t1,\ t2$
+
+Linear labor production
+
+Period 1: productivity: $\theta_1$
+
+* Private
+* $cdf:F_1$
+
+Period 2: productivity: $\theta_2$
+
+* private
+* $cdf:F_2(·|\theta_1,y_1)$
+* dependence on $y_1$
+
+Period-t flow utility
+$$
+v\left(c_{t}(\theta_t)\right)-\psi\left(y_{t}(\theta_t), \theta_{t}\right)
+$$
+Discount factor: $\delta$
+
+Expected life-time utility
+$$
+V_{1}\left(\theta_{1}\right)=\mathbb{E}\left[\sum_{t} \delta^{t-1}\left(v\left(c_{t}\left(\tilde{\theta}^{t}\right)\right)-\psi\left(y_{t}\left(\tilde{\theta}^{t}\right), \tilde{\theta}_{t}\right)\right) \mid \theta_{1}, y_{1}\left(\theta_{1}\right)\right]
+$$
+Expected life-time tax bill
+$$
+R_{1}\left(\theta_{1}\right)=\mathbb{E}\left[\sum_{t} \delta^{t-1}\left(y_{t}\left(\tilde{\theta}^{t}\right)-c_{t}\left(\tilde{\theta}^{t}\right)\right) \mid \theta_{1}, y_{1}\left(\theta_{1}\right)\right]
+$$
+Dual problem
+
+* $\int R_{1}\left(\theta_{1}\right) d F_{1}\left(\theta_{1}\right)$
+* $\int V_{1}\left(\theta_{1}\right) d F_{1}\left(\theta_{1}\right) \geq \kappa$
+
+## First best
+
+## Second best
+
+Need to give high types ”rents”: higher consumption (lower taxes) than under FB
+
+
+
+## Conclusion
