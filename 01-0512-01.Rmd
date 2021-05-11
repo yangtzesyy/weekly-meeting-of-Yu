@@ -49,7 +49,7 @@ DPSIR model: a causal framework for describing the interactions between society 
 * Impact 影响
 * Response 反应
 
-![image-20210510113541328](/Users/curitis/Library/Application Support/typora-user-images/image-20210510113541328.png)
+![image-20210510113541328](https://github.com/yangtzesyy/weekly-meeting-of-Yu/blob/main/images/WeChatb7d8560bde446169a76fd5f7454cd774.png?raw=true)
 
 ## Drivers and Pressures, State and Impact of COVID-19
 
