@@ -114,3 +114,18 @@ Need to give high types ”rents”: higher consumption (lower taxes) than under
 ![image-20210512014953141](https://github.com/yangtzesyy/weekly-meeting-of-Yu/blob/main/images/WeChat9e3d8292748ad0912b6d8fff2695813b.png?raw=true)
 
 ## Conclusion
+
+## Comments
+
+当存在干中学时：
+
+  1. 一阶段工作影响二阶段收入——一阶段税率应低于二阶段税率
+  
+  1. 应鼓励高禀赋工人工作
+  
+      1. 二阶段税收累退，程度高
+      1. 一阶段税收累进，程度低
+      
+要求：1）干中学；2）能力不可被观测
+
+可能应用到对企业征税？央地税收改革中的地方能力似乎不是private info。
