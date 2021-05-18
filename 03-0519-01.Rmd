@@ -1,0 +1,140 @@
+# The Connections of Party Brokers: Which Brokers do Parties Select?
+
+JOP
+
+## Author
+
+Sarah A. Brierley
+
+* an Assistant Professor of Political Science at the London School of Economics and Political Science
+* Comparative Politics
+  * state development, political corruption and parties and campaigns in new democracies
+
+Noah L. Nathan
+
+* Assistant Professor of Political Science
+  * political behavior and the development of political parties in new democracies in Africa
+
+## Abstract
+
+许多关于庇护主义的模型认为，政党重视掮(qian，二声）客(brokers)，因为他们同选民联系紧密。尽管这些模型占据统治地位，但由于测量掮客的社会关系存在困难，学者们并没有对该理论的关键假设进行实证研究。我们分析了三项独特数据——加纳的选民登记册、记录当地精英的目录和针对雄心勃勃的掮客的大型调查。我们发现标准模型的预测并不成立：掮客认识的选民少的惊人，有更多对下联系(*downward connections*) 的掮客并不是最积极或最有效的，并且政党并不选择认识最多选民的经纪人。相反，具有对上联系(*upward connections*)的掮客似乎对政党最有价值。我们归纳了一个关于掮客的替代理论，认为政党重视“问题解决者”而非“监督者。
+
+> downward connections: with voters
+>
+> upward connections: with superior elites
+
+## Intro
+
+According to the dominant **“information asymmetry” model** of party brokers, parties primarily employ brokers because they have **detailed information on individual voters that parties otherwise lack**.
+
+* Key assumptions of the information asymmetry model have not been empirically tested
+* Prior research has hardly explored which brokers parties select when given a choice
+
+Data: an original survey of 1,140 aspiring party brokers in Ghana’s ruling New Patriotic Party (NPP)
+
+* 样本有代表性the party primarily relies on its internal agents—the actors we survey—to implement clientelism
+* 数据强the largest survey of party brokers in any developing democracy to date
+* 能很好衡量对下联系original and objective measures of brokers’ network ties
+  * leveraging an unusually fine-grained data source—Ghana’s complete voter register—to estimate brokers’ downward connections
+* 能很好衡量对上联系an original measure of brokers’upward connections by cataloguing and asking brokers the names and phone numbers of the local elites who they must contact to deliver patronage to voters
+* because Ghana’s political parties hold internal elections to select brokers, we can identify which broker attributes party elites (and clients) value the most in real selection decisions
+
+Findings
+
+* 对下联系不是chosen brokers的主要特质 Brokers in Ghana know surprisingly few voters and have little more knowledge of local voters than a reference group of non-brokers. In addition, brokers with more downward connections are neither more active during or after campaigns nor more electorally effective than those with fewer downward ties.
+* 对上联系才是 brokers in Ghana’s ruling party have **significantly more upward ties** to local elites than non-brokers; that brokers’ ties to local elites are strong correlates of activism and electoral effectiveness; and that broker selection processes screen, at least partially, for intermediaries with the best upward ties
+
+Explanation
+
+* 在发展中国家，许多个人层面的庇护交易并没有受到监控，而且往往是选民自己发起的。掮客是problem solvers而不是monitors。many clientelist exchanges in the developing world are not monitored at the individual level and are often initiated by voters themselves. In these exchanges, parties primarily rely on brokers to be “**problem solvers**” rather than “monitors” who keep close tabs on voters 
+* 最好的掮客是那些能够为选民提供个体化好处的人。The best brokers are those who can **meet voters’ demands for personalized patronag**e. This requires connections up to local elites—**local party leaders, bureaucrats, and politicians**—who brokers must lobby for benefits to deliver to voters
+* 地方政党精英在选择掮客时往往有私心，希望掮客能提高他们在党内的地位。Additionally, local party elites often have a private incentive to select brokers with whom they are connected, because these brokers can help them rise within the party ranks.
+
+## The Information Asymmetry Theory of Party Brokers
+
+### Brokers
+
+庇护主义指用（经济/社会）好处换取政治支持。发展中民主国家常常雇佣掮客作为代理人促进这一交易。过往模型认为，掮客和选民的关系能减少党派和选民之间的信息不对称，主要有三种途径
+
+1. 识别交易对象
+2. 确定交易条件
+3. **监督交易完成** most important
+
+### Challenges
+
+1. many parties **do not actually monitor** clientelist exchanges for votes **at the individual level**
+2. 交易是由选民发起的
+3. 信息的不对称很容易消除
+4. measurement challenge
+5. 无法观测政党如何选择掮客
+
+## Ghana
+
+![WeChatd8fe2b9235b91431a25b9fbf2f36b4d0.png](https://github.com/yangtzesyy/weekly-meeting-of-Yu/blob/main/images/WeChatd8fe2b9235b91431a25b9fbf2f36b4d0.png?raw=true)
+
+### Branch Leaders as Brokers
+
+Branches
+
+* Polling station branches
+  * NNP: chairman, secretary, organizer, youth organizer, and women’s organizer
+* Branch executives act as brokers engaged in both electoral and relational clientelism
+  * electoral
+    * handouts, canvass...
+  * relational
+    * During the electoral off-cycle, branch leaders from the ruling party **connect clients with patronage** controlled by state and party officials
+
+## Data and Measurement
+
+### Survey Design
+
+200 polling stations, representing 232 branches; 1140 respondents
+
+* 连任的、没连任的、新任的、新参选没选上的
+
+four-week period immediately after branch elections
+
+### Measurement
+
+*connections down*: knowledge of real voters from their polling station
+
+* randomly select 24 voters
+
+*connections up*: knowledge of 13 local elites
+
+*Connections up* and *down* are also not correlated within individuals
+
+### Broker Activism
+
+*campaign index*: activities during the 2016 campaigns
+
+*postelection index*: postelection brokerage activities
+
+## Assessing the Information Asymmetry theory
+
+most brokers have relatively **few ties to voters**
+
+Brokers’ *connections down* do not predict overall campaign activism. But brokers’ *connections up* are a strong predictor of campaign activity
+
+* Activism ～ *connections up* + *connections down*
+* OLS模型，存在因果倒置可能性
+
+We find no evidence that the NPP favors branch leaders with the best knowledge of voters. 
+
+* Brokers由地方选（任命or党内选举）：local party elites (candidates and intermediate- level party officials) or clients
+* Broker selection decisions can be analyzed to reveal the preferences of these local actors
+* *By clients*: connections up strongly predicts victory.
+* *By local party leaders*: same
+
+## A new theory of brokers' value to parties
+
+Brokers’ connections up help enhance the value of benefits parties offer clients because these ties enable brokers to locate and deliver the specific resources voters demand.
+
+Brokers with better upward ties to local party elites bring other, unrelated benefits to a party. 
+
+## Comments~
+
+文章认为政治掮客的主要作用是「向上争取资源」而非「向下挖掘信息」。传统的信息不对称模型忽视了「资源紧张」问题，将掮客简单视作信息不对称问题的解决者。事实上，争取资源可能是掮客们更重要的职责。
+
+文章只考察了执政党如何选择掮客。在野党的选择会不会相反？因为在野党并没有足够的政治资源用于交换。
+
